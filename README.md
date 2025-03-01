@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdityaRanjan-Bittu
+- 👋 Hi, I’m Aditya Ranjan
 -
 
 <!---
